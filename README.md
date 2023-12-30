@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a Data Scientist and Analyst.
 I have Bachelor's in Mechanical Engineering and currently I'm in my final year of MBA. Also, I have a deep interest in Economics and Finance.
-
+[linkedin_Profile](www.linkedin.com/in/aditya-kumar-a96129281)
 
 ## 🔗 Links
 [![Visualizations](https://img.shields.io/badge/data_Visualizations-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.novypro.com/profile_projects/aditya-kumar)
