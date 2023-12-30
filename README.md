@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I'm a Data Scientist and Analyst.
-I have Bachelor's in Mechanical Engineering and currently I'm in my final year of MBA. Also, I have a deep interest in Economics and Finance.
+I have a Bachelor's in Mechanical Engineering and currently, I'm in the final year of my MBA. Also, I have a deep interest in Economics and Finance.
 
 
 ## 🔗 Links
